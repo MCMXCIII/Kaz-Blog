@@ -1,0 +1,12 @@
+baseURL = "https://healthcareisbullshit.com/"
+languageCode = "The language code for the language the website is written in"
+title = "Healthcare is Bullshit"
+theme = "aether"
+googleAnalytics = "Your google analytics tracking ID - optional"
+disqusShortname = "Your shortname for Disqus - optional"
+
+[params]
+brand = "HCIB"
+description = "All the inconsistencies with the healthcare system."
+homeimg = ""
+bgimg = ""

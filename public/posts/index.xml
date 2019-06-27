@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts - Healthcare is Bullshit</title>
+    <link>https://healthcareisbullshit.com/posts/</link>
+    <description>Recent content in Posts on Healthcare is Bullshit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>The language code for the language the website is written in</language>
+    <lastBuildDate>Thu, 27 Jun 2019 08:48:42 -0400</lastBuildDate>
+    
+        <atom:link href="https://healthcareisbullshit.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Test</title>
+      <link>https://healthcareisbullshit.com/posts/test/</link>
+      <pubDate>Thu, 27 Jun 2019 08:48:42 -0400</pubDate>
+      
+      <guid>https://healthcareisbullshit.com/posts/test/</guid>
+      <description> This is a Test if you can read this you did something right. </description>
+    </item>
+  </channel>
+</rss>

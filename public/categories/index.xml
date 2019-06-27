@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories - Healthcare is Bullshit</title>
+    <link>https://healthcareisbullshit.com/categories/</link>
+    <description>Recent content in Categories on Healthcare is Bullshit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>The language code for the language the website is written in</language>
+    
+        <atom:link href="https://healthcareisbullshit.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
