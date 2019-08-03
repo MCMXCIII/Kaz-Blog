@@ -1,7 +1,7 @@
 ---
 title: "Medicare for All Plan Is the Only Affordable Future for Health Care"
 date: 2019-08-03T13:53:44Z
-draft: true
+draft: false
 ---
 
 # We overpay for broken health care. Medicare for All would be much better and cost less.
