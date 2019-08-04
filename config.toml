@@ -2,7 +2,7 @@ baseURL = "https://healthcareisbullshit.com/"
 languageCode = "The language code for the language the website is written in"
 title = "Healthcare is Bullshit"
 theme = "aether"
-googleAnalytics = "Your google analytics tracking ID - optional"
+googleAnalytics = "UA-142513038-1"
 disqusShortname = "Your shortname for Disqus - optional"
 
 [params]
