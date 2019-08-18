@@ -10,6 +10,8 @@ In this video from from youtube channel Secular Talk does an analysis on a few c
 
 [![](http://img.youtube.com/vi/aJ1ZKryzAgk/0.jpg)](http://www.youtube.com/watch?v=aJ1ZKryzAgk "")
 
+{{< youtube aJ1ZKryzAgk >}}
+
 Video credit goes to Secular Talk and the offcial stream of the debate from CNN.
 
 [Secular Talk Youtube Channel](https://www.youtube.com/channel/UCldfgbzNILYZA4dmDt4Cd6A)
