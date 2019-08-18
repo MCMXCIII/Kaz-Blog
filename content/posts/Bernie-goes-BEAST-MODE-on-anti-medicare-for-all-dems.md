@@ -1,7 +1,7 @@
 ---
 title: "Bernie Goes BEAST MODE on Anti Medicare for All Dems"
 date: 2019-08-04T13:40:08-04:00
-draft: true
+draft: false
 ---
 
 # Bernie Goes BEAST MODE On Anti-Medicare For All Dems.
