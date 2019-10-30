@@ -1,7 +1,7 @@
 ---
 title: "The Moderate's Guide to Healthcare"
 date: 2019-10-29T13:40:08-04:00
-draft: true
+draft: false
 ---
 
 # The Complete Moderate's Guide to Healthcare
